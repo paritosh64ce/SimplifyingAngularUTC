@@ -1,9 +1,11 @@
 ##Background
+
 This example uses Grunt task runner with karma library to test AngularJS code.
 The code doesn't have any UI, it has set of AngularJS code files under [scripts/ folder](scripts/) and corresponding test files under [tests/ folder](tests/).
 
 
 ##How to start
+
 Clone this repository (or download as zip and extract it), and open the folder in command prompt.
 Execute the following commands
 
